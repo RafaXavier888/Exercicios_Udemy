@@ -1,4 +1,4 @@
-//O botçao "onclick" cria uma função caso você clique no botão
+//O botão "onclick" cria uma função caso você clique no botão
 //Vamos criar então essa função logo abaixo
 function mensagem(nome) {
     alert("Ei, não clique em mim "+nome);
